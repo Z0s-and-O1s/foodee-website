@@ -1,0 +1,17 @@
+body {
+    background-image: url(forlogin.jpeg);
+    background-size: 1500px 880px;
+    backface-visibility: visible;
+}
+form{
+    margin-left: 620px;
+    margin-top: 90px;
+}
+input {
+    border: 10px;
+    background: none;
+    outline: none;
+    border-bottom: solid;
+    border-radius: 50px;
+    margin-top: 40px;
+}
